@@ -2,8 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
-    <name> -- <role> -- <twitter>
+	Anas M Aslam	anascool@outlook.com
 
 # THANKS
 
